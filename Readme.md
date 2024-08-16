@@ -192,7 +192,7 @@
 </h3>
 
 <p align="center">
-    <img src="https://github-readme-activity-graph-jisus-devs-projects.vercel.app/graph?username=Jisus-Dev&bg_color=050f2c&color=ffffff&line=009fec&point=ffffff&area=true&hide_border=true&custom_title=Jisus+Dev+Contribution+Graph&from=2023-06-16&to=2023-07-15" alt="Jisus-Dev" height="220px"/>
+    <img src="https://github-readme-activity-graph-jisus-devs-projects.vercel.app/graph?username=Jisus-Dev&bg_color=050f2c&color=ffffff&line=009fec&point=ffffff&area=true&hide_border=true&custom_title=Jisus+Dev+Contribution+Graph" alt="Jisus-Dev" height="220px"/>
 </p>
 
 <h3 align="center">
