@@ -144,12 +144,12 @@
     &emsp;
     <a href="#"><img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge" alt="Django"></a>
     &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge" alt="Flutter"></a>
-    &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/NPM-CB3837?logo=npm&logoColor=white&style=for-the-badge" alt="NPM"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge" alt="Flutter"></a>    
 </p>
 
 <p align="center">
+    <a href="#"><img src="https://img.shields.io/badge/NPM-CB3837?logo=npm&logoColor=white&style=for-the-badge" alt="NPM"></a>
+    &emsp;
     <a href="#"><img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white&style=for-the-badge" alt="OpenCV"></a>
 </p>
 
