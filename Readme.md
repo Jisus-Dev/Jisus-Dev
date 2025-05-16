@@ -63,14 +63,6 @@
     <a href="#"><img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white&style=for-the-badge" alt="Dart"></a>
     &emsp;
     <a href="#"><img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge" alt="PHP"></a>
-    &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white&style=for-the-badge" alt="LaTeX"></a>
-</p>
-
-<p align="center">
-    <a href="#"><img src="https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white&style=for-the-badge" alt="PowerShell"></a>
-    &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white&style=for-the-badge" alt="Markdown"></a>
 </p>
 
 <h3 align="center">
